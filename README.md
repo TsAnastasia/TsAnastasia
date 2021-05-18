@@ -21,6 +21,6 @@
     <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact" />
   </a>
 </div>
-         
-         
+<p></p>
+
 [![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
