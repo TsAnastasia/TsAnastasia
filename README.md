@@ -22,5 +22,5 @@
   </a>
 </div>
 <div style="{padding: 10px 0;}">
-[![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
+![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
  </div>
