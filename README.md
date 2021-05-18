@@ -13,14 +13,14 @@
 
 ### 🏆 Моя статистика
 
-<div>
-  <a href="https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy">
-    <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact">
-    <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact" />
-  </a>
-</div>
-<div style="{padding: 10px 0;}">
-![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
- </div>
+  <div>
+    <a href="https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy">
+      <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy" />
+    </a>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact">
+      <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact" />
+    </a>
+  </div>
+  
+[![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
+
