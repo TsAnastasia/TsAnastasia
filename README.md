@@ -46,8 +46,8 @@
 Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsAnastasia&theme=solarized_dark)
 
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsAnastasia&theme=solarized_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact)](https://github.com/TsAnastasia/github-readme-stats)
 
 Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TsAnastasia&theme=solarized_dark)
