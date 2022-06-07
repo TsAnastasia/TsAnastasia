@@ -33,8 +33,8 @@
 
 ## Моя статистика 🏆
 
-![Anastasia Tsibernaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=issues,contribs&show_icons=true&theme=buefy&hide_rank=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact)
+![Anastasia Tsibernaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=issues,contribs&show_icons=true&theme=buefy&hide_rank=true&disable_animations=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact&langs_count=4)
 
 ### Codewars 🎯
 
