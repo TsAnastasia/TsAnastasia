@@ -34,13 +34,13 @@
 
 ### Дополнительно (есть опыт работы)
 
-![PHP](https://img.shields.io/badge/-PHP-fecf40?style=flat&logo=php&logoColor=627CBE)
-![Python](https://img.shields.io/badge/-Python-1e1e1e?style=flat&logo=python&logoColor=007acc)
+![PHP](https://img.shields.io/badge/-PHP-1e1e1e?style=flat&logo=php&logoColor=627CBE)
+![Python](https://img.shields.io/badge/-Python-fecf40?style=flat&logo=python&logoColor=007acc)
 ![C](https://img.shields.io/badge/-C-a5d2e9?style=flat&logo=visual-studio&logoColor=855BB5)
 ![C++](https://img.shields.io/badge/-C++-e39404?style=flat&logo=C%2b%2b&logoColor=6296CC)
-![C#](https://img.shields.io/badge/-C%23-047cef)
-![SQL](https://img.shields.io/badge/-SQL-76c025?style=flat&logo=mysql&logoColor=006488)
-![VBA](https://img.shields.io/badge/-VBA-047cef?style=flat&logo=Microsoft&logoColor=#ffffff)
+![C#](https://img.shields.io/badge/-C%23-1e1e1e)
+![SQL](https://img.shields.io/badge/-SQL-fecf40?style=flat&logo=mysql&logoColor=006488)
+![VBA](https://img.shields.io/badge/-VBA-76c025?style=flat&logo=Microsoft&logoColor=#ffffff)
 
 ## Моя статистика 🏆
 
