@@ -40,6 +40,6 @@
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsAnastasia&theme=vue) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsAnastasia&theme=vue) -->
 
-### Codewars 🎯
+<!-- ### Codewars 🎯 -->
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
