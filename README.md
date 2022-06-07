@@ -13,16 +13,16 @@
 
 ## Мои навыки 🔨
 
-![HTML](https://img.shields.io/badge/-HTML-e39404?style=flat&logo=html%35&logoColor=#e24c25)
-![CSS](https://img.shields.io/badge/-CSS-76c025?style=flat&logo=css%33&logoColor=007acc)
+![HTML](https://img.shields.io/badge/-HTML-76c025?style=flat&logo=html%35&logoColor=#e24c25)
+![CSS](https://img.shields.io/badge/-CSS-764ABC?style=flat&logo=css%33&logoColor=007acc)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-e24c25?style=flat&logo=javascript&logoColor=e9d54d)
-![TypeScript](https://img.shields.io/badge/-React-e24c25?style=flat&logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/-TypeScript-a5d2e9?style=flat&logo=typescript&logoColor=3178C6)
 
-![React](https://img.shields.io/badge/-React-e24c25?style=flat&logo=react&logoColor=007ACC)
-![Redux](https://img.shields.io/badge/-React-e24c25?style=flat&logo=redux&logoColor=764ABC)
-![MUI](https://img.shields.io/badge/-React-e24c25?style=flat&logo=mui&logoColor=007FFF)
-![Sass](https://img.shields.io/badge/-Webpack-a5d2e9?style=flat&logo=sass&logoColor=CC6699)
-![ApexCharts](https://img.shields.io/badge/-React-e24c25?style=flat)
+![React](https://img.shields.io/badge/-React-a5d2e9?style=flat&logo=react&logoColor=007ACC)
+![Redux](https://img.shields.io/badge/-Redux-d6aefb?style=flat&logo=redux&logoColor=764ABC)
+![MUI](https://img.shields.io/badge/-Material-UI-76c025?style=flat&logo=mui&logoColor=007FFF)
+![Sass](https://img.shields.io/badge/-Sass-fecf40?style=flat&logo=sass&logoColor=CC6699)
+![ApexCharts](https://img.shields.io/badge/-ApexCharts-047cef?style=flat)
 ![D3](https://img.shields.io/badge/-React-e24c25?style=flat&logo=D3.js&logoColor=F9A03C)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-047cef?style=flat&logo=node.js&logoColor=77b062)
