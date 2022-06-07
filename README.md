@@ -1,6 +1,6 @@
 # Всем привет, меня зовут Анастасия 👋
 
-# Я front-end-разработчик.
+** Я front-end-разработчик. **
 
 ## О себе
 
@@ -8,10 +8,10 @@
 
 ✍🏻 Стараюсь писать чистый читабельный код.
 💻 Люблю организованный подход.
-💪 Постоянно совершенствуюсь, изучая новые технологии и подходы. 
+💪 Постоянно совершенствуюсь, изучая новые технологии и подходы.
 🗁 Стремлюсь к удобной и простой структуре проекта.
 
-## 🔨 Мои навыки
+## Мои навыки 🔨
 
 ![VSCode](https://img.shields.io/badge/-VSCode-1e1e1e?style=flat&logo=visual-studio-code&logoColor=007acc)
 ![HTML](https://img.shields.io/badge/-HTML-e39404?style=flat&logo=html%35&logoColor=#e24c25)
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-047cef?style=flat&logo=Git&logoColor=#ee3c2d)
 ![GitHub](https://img.shields.io/badge/-GitHub-1e1e1e?style=flat&logo=GitHub&logoColor=#ffffff)
 
-## 🏆 Моя статистика
+## Моя статистика 🏆
 
   <div>
     <a href="https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy">
@@ -42,6 +42,6 @@
     </a>
   </div>
 
-\
+<br/>
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
