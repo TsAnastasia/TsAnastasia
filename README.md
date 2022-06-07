@@ -33,7 +33,7 @@
 
 ## Моя статистика 🏆
 
-  <div>
+  <div style={{marginBottom: "12px"}}>
     <a href="https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy">
       <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy" />
     </a>
@@ -41,9 +41,5 @@
       <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact" />
     </a>
   </div>
-
-<br/>
-<br/>
-<br/>
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
