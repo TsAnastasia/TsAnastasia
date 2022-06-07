@@ -33,9 +33,12 @@
 
 ## Моя статистика 🏆
 
+<div>
 ![Anastasia Tsibernaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact)
+
+</div>
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsAnastasia&theme=vue) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsAnastasia&theme=vue) -->
