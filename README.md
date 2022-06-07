@@ -20,26 +20,27 @@
 
 ![React](https://img.shields.io/badge/-React-e24c25?style=flat&logo=react&logoColor=007ACC)
 ![Redux](https://img.shields.io/badge/-React-e24c25?style=flat&logo=redux&logoColor=764ABC)
+![MUI](https://img.shields.io/badge/-React-e24c25?style=flat&logo=mui&logoColor=007FFF)
+![Sass](https://img.shields.io/badge/-Webpack-a5d2e9?style=flat&logo=sass&logoColor=CC6699)
+![ApexCharts](https://img.shields.io/badge/-React-e24c25?style=flat)
+![D3](https://img.shields.io/badge/-React-e24c25?style=flat&logo=D3.js&logoColor=F9A03C)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-047cef?style=flat&logo=node.js&logoColor=77b062)
 ![Webpack](https://img.shields.io/badge/-Webpack-a5d2e9?style=flat&logo=webpack&logoColor=007ACC)
-
 ![БЭМ](https://img.shields.io/badge/-%D0%91%D0%AD%D0%9C-1e1e1e?style=flat)
-![Sass](https://img.shields.io/badge/-Webpack-a5d2e9?style=flat&logo=sass&logoColor=CC6699)
-
 ![Git](https://img.shields.io/badge/-Git-047cef?style=flat&logo=Git&logoColor=#ee3c2d)
 ![GitHub](https://img.shields.io/badge/-GitHub-1e1e1e?style=flat&logo=GitHub&logoColor=#ffffff)
 ![VSCode](https://img.shields.io/badge/-VSCode-1e1e1e?style=flat&logo=visual-studio-code&logoColor=007acc)
 
 ### Дополнительно (есть опыт работы)
 
-![PHP](https://img.shields.io/badge/-PHP-1e1e1e?style=flat&logo=php&logoColor=627CBE)
-![Python](https://img.shields.io/badge/-Python-fecf40?style=flat&logo=python&logoColor=007acc)
-![C](https://img.shields.io/badge/-C-007acc?style=flat&logo=visual-studio&logoColor=855BB5)
-![C++](https://img.shields.io/badge/-C++-76c025?style=flat&logo=C%2b%2b&logoColor=6296CC)
-![C#](https://img.shields.io/badge/-C%23-1e1e1e)
-![SQL](https://img.shields.io/badge/-SQL-e24c25?style=flat&logo=mysql&logoColor=006488)
-![VBA](https://img.shields.io/badge/-VBA-e39404?style=flat&logo=Microsoft&logoColor=#ffffff)
+![PHP](https://img.shields.io/badge/-PHP-fecf40?style=flat&logo=php&logoColor=627CBE)
+![Python](https://img.shields.io/badge/-Python-1e1e1e?style=flat&logo=python&logoColor=007acc)
+![C](https://img.shields.io/badge/-C-a5d2e9?style=flat&logo=visual-studio&logoColor=855BB5)
+![C++](https://img.shields.io/badge/-C++-e39404?style=flat&logo=C%2b%2b&logoColor=6296CC)
+![C#](https://img.shields.io/badge/-C%23-047cef)
+![SQL](https://img.shields.io/badge/-SQL-76c025?style=flat&logo=mysql&logoColor=006488)
+![VBA](https://img.shields.io/badge/-VBA-047cef?style=flat&logo=Microsoft&logoColor=#ffffff)
 
 ## Моя статистика 🏆
 
