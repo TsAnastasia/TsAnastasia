@@ -32,8 +32,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-1e1e1e?style=flat&logo=GitHub&logoColor=#ffffff)
 
 ## Моя статистика 🏆
-
-![Anastasia Tsibernaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact)
+![Anastasia Tsibernaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy)  
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsAnastasia&theme=vue) -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsAnastasia&theme=vue) -->
