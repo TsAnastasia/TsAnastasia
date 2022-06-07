@@ -42,6 +42,6 @@
     </a>
   </div>
 
-\  
+### Codewars 🎯
 
 [![Codewarrior Profile Badges](https://www.codewars.com/users/TsAnastasia/badges/large)](https://www.codewars.com/users/TsAnastasia)
