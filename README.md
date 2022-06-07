@@ -20,16 +20,16 @@
 
 ![React](https://img.shields.io/badge/-React-a5d2e9?style=flat&logo=react&logoColor=007ACC)
 ![Redux](https://img.shields.io/badge/-Redux-d6aefb?style=flat&logo=redux&logoColor=764ABC)
-![MUI](https://img.shields.io/badge/-Material-UI-76c025?style=flat&logo=mui&logoColor=007FFF)
+![MUI](https://img.shields.io/badge/-MaterialUI-76c025?style=flat&logo=mui&logoColor=007FFF)
 ![Sass](https://img.shields.io/badge/-Sass-fecf40?style=flat&logo=sass&logoColor=CC6699)
 ![ApexCharts](https://img.shields.io/badge/-ApexCharts-047cef?style=flat)
-![D3](https://img.shields.io/badge/-React-e24c25?style=flat&logo=D3.js&logoColor=F9A03C)
+![D3](https://img.shields.io/badge/-D3-e24c25?style=flat&logo=D3.js&logoColor=F9A03C)
 
-![Node.js](https://img.shields.io/badge/-Node.js-047cef?style=flat&logo=node.js&logoColor=77b062)
+![Node.js](https://img.shields.io/badge/-Node.js-d6aefb?style=flat&logo=node.js&logoColor=77b062)
 ![Webpack](https://img.shields.io/badge/-Webpack-a5d2e9?style=flat&logo=webpack&logoColor=007ACC)
 ![БЭМ](https://img.shields.io/badge/-%D0%91%D0%AD%D0%9C-1e1e1e?style=flat)
 ![Git](https://img.shields.io/badge/-Git-047cef?style=flat&logo=Git&logoColor=#ee3c2d)
-![GitHub](https://img.shields.io/badge/-GitHub-1e1e1e?style=flat&logo=GitHub&logoColor=#ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-76c025?style=flat&logo=GitHub&logoColor=#ffffff)
 ![VSCode](https://img.shields.io/badge/-VSCode-1e1e1e?style=flat&logo=visual-studio-code&logoColor=007acc)
 
 ### Дополнительно (есть опыт работы)
