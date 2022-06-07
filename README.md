@@ -39,8 +39,8 @@
 ![C](https://img.shields.io/badge/-C-e39404?style=flat&logo=visual-studio&logoColor=855BB5)
 ![C++](https://img.shields.io/badge/-C++-a5d2e9?style=flat&logo=C%2b%2b&logoColor=6296CC)
 ![C#](https://img.shields.io/badge/-C%23-047cef)
-![SQL](https://img.shields.io/badge/-SQL-CC6699?style=flat&logo=mysql&logoColor=006488)
-![VBA](https://img.shields.io/badge/-VBA-76c025?style=flat&logo=Microsoft&logoColor=#ffffff)
+![SQL](https://img.shields.io/badge/-SQL-76c025?style=flat&logo=mysql&logoColor=006488)
+![VBA](https://img.shields.io/badge/-VBA-CC6699?style=flat&logo=Microsoft&logoColor=#ffffff)
 
 ## Моя статистика 🏆
 
