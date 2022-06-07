@@ -33,25 +33,12 @@
 
 ## Моя статистика 🏆
 
-![Anastasia Tsibernaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy)
+<!-- ![Anastasia Tsibernaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=TsAnastasia&hide=contribs&show_icons=true&theme=buefy)-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact)](https://github.com/TsAnastasia/github-readme-stats)
 
-
-Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TsAnastasia&theme=solarized_dark)
-
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TsAnastasia&theme=solarized_dark)
-
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsAnastasia&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsAnastasia&theme=solarized_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TsAnastasia&layout=compact)](https://github.com/TsAnastasia/github-readme-stats)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TsAnastasia&theme=solarized_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TsAnastasia&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TsAnastasia&theme=vue)
 
 ### Codewars 🎯
 
